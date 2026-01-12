@@ -23,29 +23,29 @@ Project Structure
 
 ├── src/
 
-│   ├── data_loader.py              Data loading and preprocessing
+│    ├── data_loader.py              Data loading and preprocessing
 
-│   ├── models.py                   Model definitions
+│    ├── models.py                   Model definitions
 
-│   ├── evaluation.py               Evaluation metrics and plots
+│    ├── evaluation.py               Evaluation metrics and plots
 
-│   └── feature_importance_summary.py
+│    └── feature_importance_summary.py
 
 ├── data/
 
-│   └── raw/                        Raw gravity trade data
+│    └── raw/                        Raw gravity trade data
 
 ├── results/
 
-│   ├── metrics_*.csv               Model comparison tables
+│    ├── metrics_*.csv               Model comparison tables
 
-│   ├── pred_vs_actual_*.png        Predicted vs. actual plots
+│    ├── pred_vs_actual_*.png        Predicted vs. actual plots
 
-│   ├── residuals_*_*.png           Residual diagnostics
+│    ├── residuals_*_*.png           Residual diagnostics
 
-│   ├── feature_importance_*.csv    Feature importance tables
+│    ├── feature_importance_*.csv    Feature importance tables
 
-│   └── feature_importance_*.png    Feature importance plots
+│    └── feature_importance_*.png    Feature importance plots
 
 └── notebooks/                      Optional exploratory analysis
 
