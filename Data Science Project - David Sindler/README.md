@@ -14,7 +14,9 @@ Project Structure
 
 .
 ├── main.py                         Entry point (run this)
+
 ├── requirements.txt                Python dependencies
+
 ├── README.md
 ├── PROPOSAL.md
 ├── src/
