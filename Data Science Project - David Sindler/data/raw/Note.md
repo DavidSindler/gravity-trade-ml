@@ -7,5 +7,6 @@ Place the CSV here as:
 data/raw/gravity_trade.csv
 
 
-Also possible to download via googledrive link: 
+Also possible to download via googledrive link: https://drive.google.com/file/d/1eQSMekDdVdlebBBbD1TDucQoJB5SURCT/view?usp=sharing
+
 Or from the attachment in the original email
