@@ -47,7 +47,7 @@ Project Structure
 
 │    └── feature_importance_*.png    Feature importance plots
 
-└── notebooks/                      Optional exploratory analysis
+└── AI_USAGE                    To what extent was AI used
 
 
 How to Run
